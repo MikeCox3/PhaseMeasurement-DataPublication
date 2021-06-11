@@ -73,6 +73,12 @@ This data set has 3 different file types:
 - Description: 
 - Notes: 
 
+## Identifiers
+BatchIDs
+
+SampleIDs
+
+CollationIDs
 
 
 ## Was data derived from another source? 
