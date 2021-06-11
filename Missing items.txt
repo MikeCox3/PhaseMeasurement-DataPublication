@@ -1,0 +1,10 @@
+
+List of items I think are currently missing:
+
+- .xlsx file used to calculate theoretical intensities
+- Phase fraction calculations for the example materials
+
+List of things to figure out if they belong here or in the "Texture-Sampling-PhaseMeasurement-BiasErrors" repo, and what branch.
+
+- Textures for TRIP 780b, Duplex
+- Code used for the sampling schemes
